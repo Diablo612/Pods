@@ -2,7 +2,7 @@
 A unique web app with AI-powered features like text-to-multiple-voices functionality and AI-generated images with Next.js 14 and Convex. Enabling users to create, discover, and enjoy podcasts with advanced features like text-to-audio conversion with multi-voice AI, podcast thumbnail Image generation and seamless playback.
 Taken Help From 
 -     https://github.com/adrianhajdin
-
+Currently AI generate not working because of Open AI limit reached.
 
 ## Tech Stack
 - Next.js
